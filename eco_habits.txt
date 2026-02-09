@@ -8,3 +8,5 @@ Add new habit:
 hi
 
 optimized done
+
+4. Avoid single-use plastics.
